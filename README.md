@@ -15,6 +15,11 @@ This project implements an automated weight measurement and sorting system. It w
 - **State Machine**: Robust operation with CONNECTING, WAITING, MEASURING, and DISPLAYING states
 - **Tare Function**: Serial command ('T' or 't') to zero the scale
 
+##Images
+image/image1.jpg
+ima
+
+
 ## Hardware Requirements
 
 | Component | Description |

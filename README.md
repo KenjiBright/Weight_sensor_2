@@ -16,8 +16,9 @@ This project implements an automated weight measurement and sorting system. It w
 - **Tare Function**: Serial command ('T' or 't') to zero the scale
 
 ##Images
-image/image1.jpg
-ima
+![](image/image1.jpg)
+![](image/image2.jpg)
+![](image/image3.jpg)
 
 
 ## Hardware Requirements
